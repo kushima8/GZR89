@@ -6,4 +6,4 @@ left hand macro keyboards
 ## GZR89D v1.0
 [ビルドガイド（日本語）](GZR89D/Documents/buildguide_v1.0.md)
 
-![320px-Cc-by-nc-sa_icon svg](https://user-images.githubusercontent.com/58157342/87903398-da9f4e80-ca96-11ea-9185-b426547d856a.png)
+![120px-Cc-by-nc-sa_icon svg](https://user-images.githubusercontent.com/58157342/87903527-24883480-ca97-11ea-86a5-e6abcf258247.png)
